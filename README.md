@@ -28,13 +28,13 @@
 
 ### Featured Projects
 
-- <a href="https://github.com/sjrsantos/my-portfolio" target="_blank">My Portfolio</a> - My personal portfolio
-- <a href="https://github.com/sjrsantos/Chapterverse-Web" target="_blank">Chapterverse Web</a> - Web version of the book app project
-- <a href="https://github.com/sjrsantos/Chapterverse" target="_blank">Chapterverse</a> - Book app project
-- <a href="https://github.com/sjrsantos/Todo-App" target="_blank">Todo App</a> - Todo list app in React
-- <a href="https://github.com/sjrsantos/Social-Media-App" target="_blank">Social Media App</a> - Social media app using React and Firebase
-- <a href="https://github.com/sjrsantos/UI_Project1-GroupWork" target="_blank">UI Project Group Work</a> - College group project
+- My Portfolio - My personal portfolio - [Repository](https://github.com/sjrsantos/my-portfolio) | [Live Site](https://sjrsantos.github.io/my-portfolio/)
+- Chapterverse - Book app project - [Repository](https://github.com/sjrsantos/Chapterverse) 
+- Chapterverse Web - Web version of the book app project - [Repository](https://github.com/sjrsantos/Chapterverse-Web) | [Live Site](https://sjrsantos.github.io/Chapterverse-Web/)
+- Todo App - Todo list app in React - [Repository](https://github.com/sjrsantos/Todo-App) | [Live Site](https://sjrsantos.github.io/Todo-App/)
+- Social Media App - Social media app using React and Firebase - [Repository](https://github.com/sjrsantos/Social-Media-App) | [Live Site](https://sjrsantos.github.io/Social-Media-App/)
+- UI Project Group Work - College group project - [Repository](https://github.com/sjrsantos/UI_Project1-GroupWork) 
 
 ### Connect with Me
 
-<a href="https://www.linkedin.com/in/silvio-dos-santos-j%C3%BAnior-18704b57/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-dos-santos-j%C3%BAnior-18704b57/)
