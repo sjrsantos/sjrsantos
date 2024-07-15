@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Silvio Junior 👋
 
-<!--
-**sjrsantos/sjrsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 💻 Passionate developer skilled in web development and internet applications, ready to work full-time.
+- 🌟 Completed a program in Web Development and Internet Applications at Fanshawe College, London, ON, Canada.
+- 🎓 Graduated in Mechanical Engineering from Brazil, applying engineering principles and logic in my programming projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjrsantos&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjrsantos&layout=compact&theme=radical)
+
+### Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Featured Projects
+
+- [My Portfolio](https://github.com/sjrsantos/my-portfolio) - My personal portfolio
+- [UI Project Group Work](https://github.com/sjrsantos/UI_Project1-GroupWork) - College group project
+- [Chapterverse](https://github.com/sjrsantos/Chapterverse) - Book app project
+- [Todo App](https://github.com/sjrsantos/Todo-App) - Todo list app in React
+- [Social Media App](https://github.com/sjrsantos/Social-Media-App) - Social media app using React and Firebase
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-dos-santos-junior/)
