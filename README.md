@@ -28,12 +28,13 @@
 
 ### Featured Projects
 
-- [My Portfolio](https://github.com/sjrsantos/my-portfolio) - My personal portfolio
-- [UI Project Group Work](https://github.com/sjrsantos/UI_Project1-GroupWork) - College group project
-- [Chapterverse](https://github.com/sjrsantos/Chapterverse) - Book app project
-- [Todo App](https://github.com/sjrsantos/Todo-App) - Todo list app in React
-- [Social Media App](https://github.com/sjrsantos/Social-Media-App) - Social media app using React and Firebase
+- <a href="https://github.com/sjrsantos/my-portfolio" target="_blank">My Portfolio</a> - My personal portfolio
+- - <a href="https://github.com/sjrsantos/Chapterverse-Web" target="_blank">Chapterverse Web</a> - Web version of the book app project
+- <a href="https://github.com/sjrsantos/Chapterverse" target="_blank">Chapterverse</a> - Book app project
+- <a href="https://github.com/sjrsantos/Todo-App" target="_blank">Todo App</a> - Todo list app in React
+- <a href="https://github.com/sjrsantos/Social-Media-App" target="_blank">Social Media App</a> - Social media app using React and Firebase
+- <a href="https://github.com/sjrsantos/UI_Project1-GroupWork" target="_blank">UI Project Group Work</a> - College group project
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-dos-santos-j%C3%BAnior-18704b57/)
+<a href="https://www.linkedin.com/in/silvio-dos-santos-j%C3%BAnior-18704b57/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
