@@ -29,7 +29,7 @@
 ### Featured Projects
 
 - <a href="https://github.com/sjrsantos/my-portfolio" target="_blank">My Portfolio</a> - My personal portfolio
-- - <a href="https://github.com/sjrsantos/Chapterverse-Web" target="_blank">Chapterverse Web</a> - Web version of the book app project
+- <a href="https://github.com/sjrsantos/Chapterverse-Web" target="_blank">Chapterverse Web</a> - Web version of the book app project
 - <a href="https://github.com/sjrsantos/Chapterverse" target="_blank">Chapterverse</a> - Book app project
 - <a href="https://github.com/sjrsantos/Todo-App" target="_blank">Todo App</a> - Todo list app in React
 - <a href="https://github.com/sjrsantos/Social-Media-App" target="_blank">Social Media App</a> - Social media app using React and Firebase
