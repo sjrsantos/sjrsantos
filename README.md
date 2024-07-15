@@ -3,7 +3,7 @@
 ### About Me
 
 - 💻 Passionate developer skilled in web development and internet applications, ready to work full-time.
-- 🌟 Completed a program in Web Development and Internet Applications at Fanshawe College, London, ON, Canada.
+- 🌟 Completed a Web Development and Internet Applications program at Fanshawe College, London, ON, Canada.
 - 🎓 Graduated in Mechanical Engineering from Brazil, applying engineering principles and logic in my programming projects.
 
 
