@@ -36,4 +36,4 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/silvio-dos-santos-junior/](https://www.linkedin.com/in/silvio-dos-santos-j%C3%BAnior-18704b57/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/silvio-dos-santos-junior/](https://www.linkedin.com/in/silvio-dos-santos-j%C3%BAnior-18704b57/))
